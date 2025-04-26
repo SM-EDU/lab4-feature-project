@@ -7,5 +7,6 @@ public class MyFirstProgram {
         System.out.println("Hello from Lab 4!");
 // Fun second println for second commit!
         System.out.println("Making life better, one println at a time 😎");
+
     }
 }
