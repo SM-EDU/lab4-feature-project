@@ -10,5 +10,7 @@ public class MyFirstProgram {
         System.out.println("Making life better, one println at a time 😎");
         //  second println for second commit!
         System.out.println("Making life better, one println at a time 😎 😎");
+        //  second println for third  and push!
+        System.out.println("Making life better, one println at a time  😎 😎 😎");
     }
 }
